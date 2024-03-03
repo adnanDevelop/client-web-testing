@@ -1,0 +1,75 @@
+@media screen and (max-width: 999px) {
+    .main-haeding .banner-heading {
+      font-size: 56px;
+    }
+    .orange {
+      left: 131px;
+    }
+  }
+  @media screen and (max-width: 760px) {
+    .orange {
+      left: 131px;
+      width: 500px;
+    }
+    .partner-logo-row {
+      margin: 0;
+    }
+  }
+  @media screen and (max-width: 560px) {
+    .main-haeding .banner-heading {
+      font-size: 56px;
+    }
+  
+    .orange {
+      position: absolute;
+      top: 70px;
+      left: 50px;
+      width: 386px;
+    }
+  
+    .partner-logo-row {
+      width: 50%;
+      margin: 0;
+    }
+    .white {
+      width: 442px !important;
+    }
+    .play-now-btn {
+      left: 7%;
+    }
+    .game-card-col {
+      margin-bottom: 40px !important;
+    }
+    .main-haeding .banner-heading {
+      font-size: 30px;
+    }
+  }
+  @media screen and (max-width: 380px) {
+    .main-haeding .banner-heading {
+      font-size: 25px;
+    }
+  
+    .orange {
+      position: absolute;
+      top: 70px;
+      left: 21px;
+      width: 310px;
+    }
+    .white {
+      width: 343px !important;
+    }
+    .partner-logo-row {
+      width: 50%;
+      margin: 0;
+    }
+    .play-now-btn {
+      left: 3%;
+      padding: 3px 61px;
+    }
+    .game-card-col {
+      margin-bottom: 40px !important;
+    }
+    .main-haeding .banner-heading {
+      font-size: 30px;
+    }
+  }
